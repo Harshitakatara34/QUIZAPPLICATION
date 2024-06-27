@@ -2,13 +2,13 @@
 let questions = [
     {
     numb: 1,
-    question: "How Many Avatars Did Lord Vishnu Have?",
+    question: "WHICH IS FIRST PRESIDENT OF INDIA?",
     answer: "10",
     options: [
       "10",
-      "4",
-      "7",
-      "11."
+      "RAJENDRA PRASAD",
+      "NEHRU",
+      "GANDHI."
     ]
   },
   {
@@ -25,12 +25,12 @@ let questions = [
   {
     numb: 3,
     question: "who will win 2024 election?",
-    answer: "sabhee chutiya hain",
+    answer: "Both",
     options: [
       "NDA Alliance",
       "INDI Alliance",
       "Both",
-      "sabhee chutiya hain",
+      "sabhee BEKAR H",
     
     ]
   },
@@ -40,18 +40,18 @@ let questions = [
     answer: "KUSHAGRA KATARA",
     options: [
       "Niel Armstrong",
-      "MS dhoni ka ***",
+      "MS dhoni ",
       "KUSHAGRA KATARA",
       "Chhota Bheem"
     ]
   },
   {
     numb: 5,
-    question: "Who wrote Mahabharat",
-    answer: "Ganesh ji",
+    question: "Who wrote harry POTTER",
+    answer: "jk rowling",
     options: [
-      "Ganesh ji",
-      "Valmiki",
+      "jk rowling",
+      "kr narayan",
       "shivji",
       "None of the above."
     ]
